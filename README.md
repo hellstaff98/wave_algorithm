@@ -1,0 +1,1 @@
+Visualization of the Wave algorithm (finding the shortest way out from the labirinth). Input: .txt file with the maze (example is in the input.txt). GUI: You can move step-by-step or use automatic mode (speed is changable), you will see the shortest way and its lenght
